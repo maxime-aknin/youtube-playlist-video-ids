@@ -1,0 +1,26 @@
+{
+  "name": "youtube-playlist-video-ids",
+  "version": "1.0.0",
+  "description": "Get all video ids from a Youtube playlist ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxime-aknin/youtube-playlist-video-ids.git"
+  },
+  "author": "Aknin Maxime",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxime-aknin/youtube-playlist-video-ids/issues"
+  },
+  "homepage": "https://github.com/maxime-aknin/youtube-playlist-video-ids#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "dotenv": "^5.0.1",
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {}
+}
