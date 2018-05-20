@@ -1,14 +1,6 @@
 # youtube-playlist-video-ids
 Retreive all video ids from a Youtube playlist
 
-## Installation
-
-Install with [npm](https://www.npmjs.com/):
-
-``` sh
-npm install youtube-playlist-video-ids --save
-```
-
 ## Usage
 
 First, you have to get an api key for [YouTube Data API v3](https://developers.google.com/youtube/v3/)
